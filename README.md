@@ -1,2 +1,2 @@
-# Form-Validation 
- Form-Validation using HTML | CSS | JS
+# User-Registration
+It collects user information for registration.
